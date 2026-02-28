@@ -44,7 +44,7 @@ To build strong real-world technical skills — not just theory — and become h
 <h2>🤝 Connect</h2>
 
 LinkedIn: (add your link here once ready)  
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/ranarahman1
 
 <!--
 **ranarahman1/ranarahman1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
