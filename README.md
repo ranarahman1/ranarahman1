@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rana Rahman 👋</h1>
+<h1>Hi, I'm Rana Rahman </h1>
 
 <p>
 Cyber Security & Digital Forensics Graduate | Building Real-World IT Support & Infrastructure Skills
