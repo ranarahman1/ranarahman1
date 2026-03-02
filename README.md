@@ -43,7 +43,7 @@ To build strong real-world technical skills — not just theory — and become h
 
 <h2>🤝 Connect</h2>
 
-LinkedIn: (add your link here once ready)  
+LinkedIn: www.linkedin.com/in/ranarahmanrm 
 GitHub: https://github.com/ranarahman1
 
 <!--
