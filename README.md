@@ -37,9 +37,7 @@ Phase 4 – Security & Advanced Networking
 Phase 5 – Linux & Scripting  
 Phase 6 – Career Preparation  
 
-<h2>🎯 Mission</h2>
 
-To build strong real-world technical skills — not just theory — and become highly competent in enterprise IT environments.
 
 <h2>🤝 Connect</h2>
 
